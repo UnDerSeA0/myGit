@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+<canvas id="con" height="730" width="1500" style="border:1px solid #c3c3c3;"></canvas>
+<script type="text/javascript">
+    var c=document.getElementById("con");
+    var ctx=c.getContext("2d");
+    ctx.strokeStyle="red";
+    ctx.fillStyle="red";
+    ctx.lineWidth=3;
+    ctx.shadowOffsetX= 10;
+    ctx.shadowOffsetY= 10;
+    ctx.shadowBlur=10;
+    ctx.shadowColor='white';
+    ctx.font='40pt 微软雅黑';
+    ctx.strokeText('keke',40,80);
+    ctx.strokeStyle="red";
+    ctx.lineWidth=3;
+    ctx.shadowOffsetX= 10;
+    ctx.shadowOffsetY= 10;
+    ctx.shadowBlur=10;
+    ctx.shadowColor='white';
+    ctx.font='40pt 微软雅黑';
+    ctx.fillText('这可咋整啊',300,120);
+
+</script>
+</body>
+</html>
