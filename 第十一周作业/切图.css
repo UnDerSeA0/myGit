@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    position: relative;
+    overflow: hidden;
+    background-color: #cccccc;
+}
+.top{
+    width:1400px;
+    height:940px;
+    position: relative;
+    margin:auto;
+    background-image: url("上方背景.png");
+}
+.top-head{
+    width:1400px;
+    height:150px;
+    position: relative;
+    background-color: white;
+}
+.top-head div{
+    display: inline-block;
+}
+.head-name{
+    width:226px;
+    height:33px;
+    position: relative;
+    background-image: url("上头.png");
+    top:63px;
+    left:100px;
+}
+.nav{
+    width:550px;
+    overflow: hidden;
+    position: relative;
+    top:63px;
+    left:200px;
+}
+.ul{
+    overflow: hidden;
+}
+li{
+    list-style-type: none;
+    float: left;
+    margin:auto 20px;
+}
+.right{
+    height:140px;
+    width:400px;
+    position: absolute;
+    overflow: hidden;
+    left:1000px;
+    border-left: 2px solid darkgrey;
+}
+.r-button{
+    height:40px;
+    width:120px;
+    background-color: gold;
+    position: relative;
+    top:80px;
+    left:40px;
+    text-align: center;
+    line-height:40px;
+}
+.r-text{
+    font-size: 20px;
+    height:40px;
+    width:160px;
+    margin:0 20px;
+    position: relative;
+    top:80px;
+    left:50px;
+    text-align: center;
+    line-height:40px;
+    border-left: 2px solid darkgrey;
+}
+.top-body{
+    overflow: hidden;
+    position: relative;
+    height:790px;
+    width:1400px;
+}
+.body-text{
+    width:881px;
+    height:99px;
+    position: relative;
+    top:250px;
+    left:259px;
+    background-image: url("中文.png");
+}
+.body-logo{
+    width: 102px;
+    height: 110px;
+    position: relative;
+    left:649px;
+    top:299px;
+    background-image: url("中图.png");
+}
+.input-margin{
+    width:581px;
+    height:80px;
+    background-color: #f1f1f1;
+    position: relative;
+    top:400px;
+    left: 419px;
+    opacity: 0.5;
+}
+.input-all{
+    width: 541px;
+    height: 40px;
+    position: relative;
+    background-color: white;
+    top:20px;
+    left:20px;
+    opacity: 1;
+    overflow: hidden;
+}
+.input{
+    height: 40px;
+    width: 270px;
+    position: relative;
+    text-align: center;
+}
+.yellow{
+    height: 40px;
+    width: 264px;
+    float: right;
+    overflow: hidden;
+}
+.after{
+    height: 40px;
+    width: 130px;
+    position: relative;
+    float: left;
+    background-color: #ffff00;
+    border:1px solid gold;
+}
+.input-button{
+    height: 40px;
+    width: 130px;
+    position: relative;
+    float: right;
+    background-color: #ffff00;
+    border:1px solid gold;
+}
+.mid{
+    width:1400px;
+    height: 653px;
+    position: relative;
+    margin:auto;
+    background-image: url("中部.png");
+}
+.button1{
+    height:40px;
+    width:120px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left:350px;
+    top:500px;
+    border: 2px solid white;
+    color:white;
+}
+.button2{
+    height:40px;
+    width:120px;
+    text-align: center;
+    line-height: 40px;
+    position: relative;
+    left:920px;
+    top:460px;
+    border: 2px solid white;
+    color:white;
+}
+.foot{
+    width: 1400px;
+    height:700px;
+    overflow: hidden;
+    margin:auto;
+    background-image: url("中背.png");
+}
+.foot-text{
+    width:296px;
+    height:82px;
+    background-image: url("下文.png");
+    position: relative;
+    left:551px;
+    top:100px;
+}
+.footer{
+    position: relative;
+    overflow: hidden;
+    top:100px;
+}
+.foot-img1{
+    width: 228px;
+    height:328px;
+    position: relative;
+    left: 220px;
+    top: 100px;
+    display: inline-block;
+}
+.logo1{
+    position: relative;
+    left:50px;
+    width:128px;
+    height: 128px;
+    background-image: url("下1.png");
+}
+span {
+    position: relative;
+    left: 30px;
+    top: 50px;
+    font-size: 32px;
+    color: gold;
+}
+.foot-img2{
+    width: 228px;
+    height:328px;
+    position: relative;
+    left: 280px;
+    top:100px;
+    display: inline-block;
+}
+.logo2{
+    position: relative;
+    left:50px;
+    width:128px;
+    height: 128px;
+    background-image: url("下2.png");
+}
+.foot-img3{
+    width: 228px;
+    height:328px;
+    position: relative;
+    left: 300px;
+    top:100px;
+    display: inline-block;
+}
+.logo3{
+    position: relative;
+    left:50px;
+    width:128px;
+    height: 128px;
+    background-image: url("下3.png");
+}
+.foot-img4{
+    width: 228px;
+    height:328px;
+    position: relative;
+    left: 320px;
+    top:100px;
+    display: inline-block;
+}
+.logo4{
+    position: relative;
+    left:50px;
+    width:128px;
+    height: 128px;
+    background-image: url("下4.png");
+}
