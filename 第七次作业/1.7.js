@@ -1,12 +1,12 @@
 myArray = new Array(1,2,3);
-myArray.myMap = myMap(function (x) {
+Array.prototype.myMap = myMap(function (x) {
     return x*4;
 });
 console.log(myArray);
-myArray.myReduce = myReduce();
-myArray.myForeach = myForeach();
-myArray.mySome = mySome();
-myArray.myFilter = myFilter();
+Array.prototype.myReduce = myReduce();
+Array.prototype.myForeach = myForeach();
+Array.prototype.mySome = mySome();
+Array.prototype.myFilter = myFilter();
 function myMap(f,object){
     var newArray = new Array();
     if(object)
