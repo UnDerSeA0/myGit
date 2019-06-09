@@ -1,0 +1,1546 @@
+!SESSION 2019-06-05 10:38:49.713 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\167.JSP+SQL飞机票网上订票系统\源程序\z_feijipiao
+
+!ENTRY org.eclipse.jface 2 0 2019-06-05 10:38:54.389
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-05 10:38:54.389
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@7b9969,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-05 10:38:56.442
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.723
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.762
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.783
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.807
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.832
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.859
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.888
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.916
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.945
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:56.972
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2019-06-05 10:38:57.001
+!MESSAGE Installed snippet library: C:\Myeclipse\configuration\org.eclipse.osgi\bundles\119\1\.cp\snippets\jsp\struts_tiles_snippets.xml
+!SESSION 2019-06-05 10:39:18.073 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\167.JSP+SQL飞机票网上订票系统\源程序\z_feijipiao
+
+!ENTRY org.eclipse.jface 2 0 2019-06-05 10:39:22.624
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-05 10:39:22.624
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@1c1681c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-05 10:39:24.147
+!MESSAGE Unable to locate .myeclipse.properties file
+!SESSION 2019-06-05 10:41:42.350 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2019-06-05 10:41:47.367
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-05 10:41:47.367
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@32c41c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-05 10:41:48.688
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.ui.workbench 2 0 2019-06-05 10:42:15.715
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2019-06-05 10:42:15.715
+!MESSAGE Conflict for 'com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug':
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@2f3fe0,
+	expression=,sourcePriority=0)
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@a8d45,
+	expression=,sourcePriority=0)
+!SESSION 2019-06-05 10:43:27.680 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-05 10:43:35.337
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.jface 2 0 2019-06-05 10:43:35.862
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-05 10:43:35.862
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@ba3671,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2019-06-05 10:51:53.401 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-05 10:51:58.890
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.jface 2 0 2019-06-05 10:51:59.451
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-05 10:51:59.451
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@c7345c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.dltk.core 4 4 2019-06-05 10:53:12.689
+!MESSAGE Background Indexer Crash Recovery
+!STACK 0
+java.lang.StackOverflowError
+	at java.util.ArrayList.get(ArrayList.java:322)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:296)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.CombinedOrReference.isLocal(CombinedOrReference.java:297)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+	at org.eclipse.dltk.internal.javascript.typeinference.TransparentRef.isLocal(TypeInferencer.java:149)
+
+!ENTRY org.maven.ide.eclipse 4 0 2019-06-05 10:53:15.248
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!STACK 0
+java.io.IOException: Authorization exception retrieving nexus-maven-repository-index.properties
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$WagonFetcher.retrieve(DefaultIndexUpdater.java:681)
+	at org.sonatype.nexus.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:22)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:493)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:74)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:780)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:954)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:138)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1060)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateIndex(NexusIndexManager.java:1013)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager$1.run(NexusIndexManager.java:624)
+	at org.maven.ide.eclipse.internal.index.IndexUpdaterJob.run(IndexUpdaterJob.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.ui.workbench 2 0 2019-06-05 10:53:26.511
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2019-06-05 10:53:26.511
+!MESSAGE Conflict for 'com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug':
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@103c628,
+	expression=,sourcePriority=0)
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@c695a5,
+	expression=,sourcePriority=0)
+
+!ENTRY org.eclipse.osgi 2 1 2019-06-05 10:53:29.697
+!MESSAGE NLS unused message: DeploymentManagerDialog_status_deployment_Sucessful_overwrite_mode_ in: com.genuitec.eclipse.ast.deploy.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2019-06-05 10:53:29.698
+!MESSAGE NLS missing message: DeploymentManagerDialog_status_deployment_Sucessful_overwrite_mode in: com.genuitec.eclipse.ast.deploy.core.messages
+
+!ENTRY org.eclipse.ui 4 0 2019-06-05 10:55:16.523
+!MESSAGE Warning: Detected recursive attempt by part com.genuitec.eclipse.webdesigner3.editors.jsp to create itself (this is probably, but not necessarily, a bug)
+!STACK 1
+org.eclipse.ui.PartInitException: Warning: Detected recursive attempt by part com.genuitec.eclipse.webdesigner3.editors.jsp to create itself (this is probably, but not necessarily, a bug)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:586)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.eclipse.ui.internal.EditorManager.findEditor(EditorManager.java:403)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditorBatched(WorkbenchPage.java:2799)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:2762)
+	at org.eclipse.ui.internal.WorkbenchPage.access$11(WorkbenchPage.java:2754)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:2705)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2701)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2685)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2676)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:651)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:610)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:361)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:168)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:229)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:208)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:250)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:373)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$4.open(PackageExplorerPart.java:526)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:842)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:888)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:48)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:840)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1101)
+	at org.eclipse.jface.viewers.StructuredViewer$6.handleOpen(StructuredViewer.java:1205)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:264)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:258)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:298)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3910)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3503)
+	at com.genuitec.eclipse.webdesigner3.design.MozillaEditor$EventLoop.run(MozillaEditor.java:1359)
+	at com.genuitec.eclipse.webdesigner3.design.MozillaEditor$EventLoop.access$0(MozillaEditor.java:1352)
+	at com.genuitec.eclipse.webdesigner3.design.MozillaEditor.loadURL(MozillaEditor.java:1334)
+	at com.genuitec.eclipse.webdesigner3.design.DesignEditSystem.setEditorDocumentRoot(DesignEditSystem.java:111)
+	at com.genuitec.eclipse.webdesigner3.design.DesignEditSystem.synchronize(DesignEditSystem.java:186)
+	at com.genuitec.eclipse.webdesigner3.AbstractEditSystem.setSynchronized(AbstractEditSystem.java:24)
+	at com.genuitec.eclipse.webdesigner3.WebDesigner3.setSynchronized(WebDesigner3.java:113)
+	at com.genuitec.eclipse.webdesigner3.editors.WebDesignerMultiPageEditor.checkSynchronization(WebDesignerMultiPageEditor.java:1048)
+	at com.genuitec.eclipse.webdesigner3.editors.WebDesignerMultiPageEditor.access$6(WebDesignerMultiPageEditor.java:1044)
+	at com.genuitec.eclipse.webdesigner3.editors.WebDesignerMultiPageEditor$11.run(WebDesignerMultiPageEditor.java:1015)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at com.genuitec.eclipse.webdesigner3.editors.WebDesignerMultiPageEditor.designPageChange(WebDesignerMultiPageEditor.java:1013)
+	at com.genuitec.eclipse.webdesigner3.editors.WebDesignerMultiPageEditor.pageChange(WebDesignerMultiPageEditor.java:984)
+	at org.eclipse.ui.part.MultiPageEditorPart.setActivePage(MultiPageEditorPart.java:1076)
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:361)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditorBatched(WorkbenchPage.java:2857)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:2762)
+	at org.eclipse.ui.internal.WorkbenchPage.access$11(WorkbenchPage.java:2754)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:2705)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2701)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2685)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:2676)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:651)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:610)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:361)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:168)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:229)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:208)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:250)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:373)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$4.open(PackageExplorerPart.java:526)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:842)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:888)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:48)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:840)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1101)
+	at org.eclipse.jface.viewers.StructuredViewer$6.handleOpen(StructuredViewer.java:1205)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:264)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:258)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:298)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3910)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3503)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-06-05 10:55:16.523
+!MESSAGE Warning: Detected recursive attempt by part com.genuitec.eclipse.webdesigner3.editors.jsp to create itself (this is probably, but not necessarily, a bug)
+!SESSION 2019-06-05 11:45:05.910 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-05 11:45:16.257
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.jface 2 0 2019-06-05 11:45:17.681
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-05 11:45:17.681
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@53a1b3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui.workbench 2 0 2019-06-05 11:45:18.564
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2019-06-05 11:45:18.564
+!MESSAGE Conflict for 'com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug':
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@1a85542,
+	expression=,sourcePriority=0)
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@757fad,
+	expression=,sourcePriority=0)
+
+!ENTRY org.maven.ide.eclipse 4 0 2019-06-05 11:45:21.181
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!STACK 0
+java.io.IOException: Authorization exception retrieving nexus-maven-repository-index.properties
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$WagonFetcher.retrieve(DefaultIndexUpdater.java:681)
+	at org.sonatype.nexus.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:22)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:493)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:74)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:780)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:954)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:138)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1060)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateIndex(NexusIndexManager.java:1013)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager$1.run(NexusIndexManager.java:624)
+	at org.maven.ide.eclipse.internal.index.IndexUpdaterJob.run(IndexUpdaterJob.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2019-06-07 15:22:08.291 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2019-06-07 15:22:44.872
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-06-07 15:22:44.872
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@12ce7c6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2019-06-07 15:22:49.837
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY org.eclipse.ui.workbench 2 0 2019-06-07 15:22:52.429
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2019-06-07 15:22:52.429
+!MESSAGE Conflict for 'com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug':
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@1533ae9,
+	expression=,sourcePriority=0)
+HandlerActivation(commandId=com.genuitec.eclipse.ast.deploy.core.runonservershortcut.debug,
+	handler=org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@140aa23,
+	expression=,sourcePriority=0)
+
+!ENTRY org.maven.ide.eclipse 4 0 2019-06-07 15:22:54.892
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!STACK 0
+java.io.IOException: Authorization exception retrieving nexus-maven-repository-index.properties
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$WagonFetcher.retrieve(DefaultIndexUpdater.java:681)
+	at org.sonatype.nexus.index.updater.AbstractResourceFetcher.retrieve(AbstractResourceFetcher.java:22)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:493)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.access$100(DefaultIndexUpdater.java:74)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:780)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:954)
+	at org.sonatype.nexus.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:138)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1060)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager.updateIndex(NexusIndexManager.java:1013)
+	at org.maven.ide.eclipse.internal.index.NexusIndexManager$1.run(NexusIndexManager.java:624)
+	at org.maven.ide.eclipse.internal.index.IndexUpdaterJob.run(IndexUpdaterJob.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
